@@ -4,3 +4,7 @@ __pycache__/
 *.wav
 *.mp4
 *.env
+.cache/
+splits/
+*.ass
+content
