@@ -3,7 +3,7 @@ Automated shortform content from Youtube Videos
 > Url in Shorts Out
 
 ## Demo
-[![Watch the video](https://raw.githubusercontent.com/notcostheta/AutoShorts/main/demo/thumbnail.png)](https://raw.githubusercontent.com/notcostheta/AutoShorts/main/demo/video.mp4)
+[![Watch the video](https://raw.githubusercontent.com/notcostheta/AutoShorts/main/demo/demo.gif)](https://raw.githubusercontent.com/notcostheta/AutoShorts/main/demo/video.mp4)
 
 
 ## Requirements
