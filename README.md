@@ -3,7 +3,7 @@ Automated shortform content from Youtube Videos
 > Url in Shorts Out
 
 ## Demo
-<video src="demo/fireship.mp4" controls="controls" style="max-width: 720px;">
+<video src="https://github.com/notcostheta/AutoShorts/blob/main/demo/fireship.mp4" controls="controls" style="max-width: 720px;">
 Your browser does not support the video tag.
 </video>
 
