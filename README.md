@@ -3,9 +3,7 @@ Automated shortform content from Youtube Videos
 > Url in Shorts Out
 
 ## Demo
-<video src="https://github.com/notcostheta/AutoShorts/blob/main/demo/fireship.mp4" controls="controls" style="max-width: 720px;">
-Your browser does not support the video tag.
-</video>
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/notcostheta/AutoShorts/blob/main/demo/fireship.mp4)
 
 ## Requirements
 - Make sure you have ffmpeg installed on your system. If not, you can install it by running `sudo apt install ffmpeg` on Ubuntu.
