@@ -1,10 +1,15 @@
 # AutoShorts
 Automated shortform content from Youtube Videos
-Url in Shorts Out
+> Url in Shorts Out
+
+## Demo
+<video src="demo/fireship.mp4" controls="controls" style="max-width: 720px;">
+Your browser does not support the video tag.
+</video>
 
 ## Requirements
 - Make sure you have ffmpeg installed on your system. If not, you can install it by running `sudo apt install ffmpeg` on Ubuntu.
-- If on windows, make sure to add ffmpeg to your PATH.
+- If on windows, make sure to add ffmpeg binary to your PATH.
 - Create a virtual environment by running `python -m venv venv`.
 - Load the virtual environment by running `source venv/bin/activate`.
 - Install the required python packages by running `pip install -r requirements.txt`.
